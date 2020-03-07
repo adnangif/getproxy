@@ -1,4 +1,7 @@
 # getproxy
+
+# find google verified HTTPS proxy
+
 finds upto 600 working HTTPS proxies from different sites
 
 this program finds 900 unverified proxies and then removes
